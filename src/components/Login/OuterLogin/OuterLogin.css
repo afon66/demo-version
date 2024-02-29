@@ -1,0 +1,7 @@
+.loginForm *{
+  display: block;
+}
+
+.label {
+  display: flex;
+}
